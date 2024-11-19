@@ -1,5 +1,5 @@
 {
-  "name": "Embedded Template Library ETL",
+  "name": "ETL",
   "version": "20.40.0",
   "authors": {
     "name": "John Wellbelove",
@@ -36,4 +36,3 @@
   "platforms": "*",
   "frameworks": "*"
 }
-
